@@ -1,2 +1,2 @@
 # vacf
-calculate velocity-autocorrelation und IR from VASP XDATCAR
+Calculate velocity-autocorrelation und IR from VASP XDATCAR
